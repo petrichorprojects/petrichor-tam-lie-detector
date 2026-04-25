@@ -7,7 +7,7 @@ A Claude Code skill that runs the TAM Integrity Test interactively — interroga
 ## Install
 
 ```
-claude install github:petrichorprojects/petrichor-tam-lie-detector
+git clone https://github.com/petrichorprojects/petrichor-tam-lie-detector ~/.claude/skills/tam-lie-detector
 ```
 
 ## Run
